@@ -151,3 +151,6 @@ Como o padrão Invenção Pura seria utilizado para resolver esse problema?*
 *D) Deixando os métodos de persistência privados.*
 
 **E) Definindo uma classe de persistência genérica** ✅
+
+
+Lucas Rodrigues Pereira - 202202293555 - Padrões de Projetos de Software Com Java - Prof RONALDO CANDIDO DOS SANTOS - Sistemas de Informação - Barra World/Recreio
